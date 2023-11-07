@@ -13,7 +13,7 @@
 ## Usage
 
 ```bash
-curl -sL bit.ly/2AtVaXR
+curl -sL card.chrislaw.me
 ```
 
 ## Contribute
